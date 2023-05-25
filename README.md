@@ -1,6 +1,5 @@
 # Mijn project
 
--Over dit project
 In dit project heb ik in C# een spel gemaakt wat gebaseerd is op Tamagotchi.
 Dit heb helemaal zelf gemaakt in Visual Studio 2022.
 
