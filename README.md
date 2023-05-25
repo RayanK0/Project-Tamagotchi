@@ -5,7 +5,7 @@ Dit heb helemaal zelf gemaakt in Visual Studio 2022.
 
 
 In het spel moet je eten en water geven om het te overleven, hoe langer je het overleeft hoe hoger je score word.
-Als je geen eten/water geeft, word de smiley steeds bozer.
+Als je geen eten/water geeft, word de smiley steeds bozer, en gaat de smiley zijn gezondheid naar beneden.
 
 
 
