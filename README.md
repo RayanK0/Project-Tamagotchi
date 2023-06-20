@@ -1,7 +1,7 @@
 # Mijn project
 
 In dit project heb ik in C# een spel gemaakt wat gebaseerd is op Tamagotchi.
-Dit heb helemaal zelf gemaakt in Visual Studio 2022.
+Dit heb helemaal zelf gemaakt in Visual Studio 2022 met de .NET framework.
 
 
 In het spel moet je eten en water geven om het te overleven, hoe langer je het overleeft hoe hoger je score word.
